@@ -94,6 +94,7 @@
 
 ![ScreenShot]()
 
+Fun Fact: Μέσα στην σκηνή τοποθέτησα πανω απο 500 θάμνους και 300 κάκτους
 
 ## Unit 4 - Creative Challenge
 
