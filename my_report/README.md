@@ -96,7 +96,7 @@ Fun Fact: Μέσα στην σκηνή τοποθέτησα πανω απο 500 
 
 ### Animations
 
---> Τέλος έκανα δύο αυτοκίνητα να μετακινούνται στον δρόμο και έβαλα ένα απλό animation στον πρωταγωνιστή μέσω του [mixamo](https://www.mixamo.com/#/). [Εδώ](https://github.com/dpsd19061/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable3) φαίνεται το αποτέλεσμα
+--> Τέλος έκανα δύο αυτοκίνητα να μετακινούνται στον δρόμο και έβαλα ένα απλό animation στον πρωταγωνιστή μέσω του [mixamo](https://www.mixamo.com/#/). [Εδώ](https://github.com/dpsd19061/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable1/Unit4) φαίνεται το αποτέλεσμα
 
 # 2nd Deliverable
 
