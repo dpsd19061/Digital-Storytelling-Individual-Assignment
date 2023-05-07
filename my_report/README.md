@@ -118,7 +118,7 @@ Fun Fact: Μέσα στην σκηνή τοποθέτησα πανω απο 500 
 
 ![ScreenShot](7.1.jpg)
 
-![ScreenShot](7.1.jpg)
+![ScreenShot](7.2.jpg)
 
 # 3rd Deliverable 
 
