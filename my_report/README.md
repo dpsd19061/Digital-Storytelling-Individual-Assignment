@@ -102,9 +102,21 @@ Fun Fact: Μέσα στην σκηνή τοποθέτησα πανω απο 500 
 
 ## Unit 5 - Creative Challenge
 
+--> Αυτό το creative challenge ήταν αρκετά απλό. Ακολούθησα πιστά το tutorial, τοποθέτησα τρεις διαφορετικές κάμερες με animation και δύο από αυτές τις έκανα blend. Κατά κύριο κανόνα τα επερχόμενα challenges είναι απλά διότι το μόνο που χρειάστηκε είναι απλά να ακολουθώ τα tutorial και να αλλάζω με τέτοιο τρόπο τις ρυθμίσεις έτσι ώστε να ταιριάζει με το δικό μου animation.
+
+![ScreenShot](5.1.jpg)
+
 ## Unit 6 - Creative Challenge
 
+--> Στο creative challenge 6 έφτιαξα καλύτερα το φωτισμό, ρύθμισα το color grading με βάση τις επιθυμίες μου, έβαλα μπλουμ, ομίχλη και τέλος έβαλα ξεχωριστά σε κάθε κάμερα κατάλληλο depth of field και ένα ελαφρύ vignette.
+
+![ScreenShot](6.1.jpg)
+
 ## Unit 7 - Creative Challenge
+
+--> Τέλος στο creative challenge 7, με particle system έφτιαξα σπίθες και τις τοποθέτησα σε μία λάμπα, και καπνό που βγαίνει από μία καμινάδα. Επιπλέον έβαλα έναν ambient ήχο να ακούγεται καθ'όλη τη διάρκεια του βίντεο.
+
+![ScreenShot](7.1.jpg)
 
 # 3rd Deliverable 
 
