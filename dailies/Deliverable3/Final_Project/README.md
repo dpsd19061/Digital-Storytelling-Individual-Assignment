@@ -1,2 +1,2 @@
 ## Final project render
-[![Watch the video]()](https://youtu.be/UaXOgPFslOI)
+Το τελικό [βιντεο](https://youtu.be/UaXOgPFslOI) είναι ανεβασμένο στο YouTube λόγω μεγέθους
